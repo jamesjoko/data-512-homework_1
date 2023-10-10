@@ -3,7 +3,7 @@ HW 1 - Professionalism &amp; Reproducibility
 
 This project aims to construct, analyze, and publish a dataset of monthly article traffic for a subset of Academy Award-winning film articles on English Wikipedia from July 1, 2015 through September 30, 2023. To reproduce the analysis, run all cells in the `jjoko_data512_hw1.ipynb` notebook from top to bottom.
 
-The license of the source data is (?)
+The license of the source data is located here: https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License
 
 This project uses the Wikimedia Foundation REST API. The terms of use are located here: https://www.mediawiki.org/wiki/REST_API#Terms_and_conditions
 
